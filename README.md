@@ -9,7 +9,7 @@ The <a href="https://github.com/melanieAzaidel/HowDoStarsShine/tree/main/Process
 
 <a href="https://github.com/melanieAzaidel/HowDoStarsShine/blob/main/Mk1%20Fusion%20Reactor.ipynb">Mk1 Fusion Reactor.ipynb.csv</a> contains Python functions for generating the nuclear reaction rates for selected reactions of the pp chain and CNO bi-cycle. Astrophysical S factors come from <a href="https://arxiv.org/abs/2405.06470">https://arxiv.org/abs/2405.06470</a>.
 
-<a href="https://github.com/melanieAzaidel/HowDoStarsShine/blob/main/Physics%20Sandbox.ipynb">Physics Sanxbox.ipynb</a> contains code for generating a neat demonstration of the Gamow peak for p-p fusion.
+<a href="https://github.com/melanieAzaidel/HowDoStarsShine/blob/main/Physics%20Sandbox.ipynb">Physics Sandbox.ipynb</a> contains code for generating a neat demonstration of the Gamow peak for p-p fusion.
 
 <a href="https://github.com/melanieAzaidel/HowDoStarsShine/blob/main/Solar%20Model%20Plotter.ipynb">Solar Model Plotter.ipynb</a> contains the code for generating the majority of figures relating to solar model variables in my exam.
 
