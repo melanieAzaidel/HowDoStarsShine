@@ -1,7 +1,9 @@
 # How Do Stars Shine?
 This respository contains files pertaining to my Doctoral Candidacy Exam, the topic of which was "How do stars shine? (According to physicists.)" as part of the Ohio State University Department of Physics Physics Ph.D. program.
 
-The Exam Documents folder contains the Written and Oral portions of my Candidacy Exam. The remaining files and folders contain code and solar model files to generate figures throughout my exam.
+The Written and Oral portions of my Candidacy Exam can be found on my <a href="https://u.osu.edu/mzaidel/portfolio/candidacy-exam/">website</a>.
+
+The remaining files and folders contain code and solar model files to generate figures throughout my exam.
 
 The Images folder contains various figures generated for my exam deliverables as seen in the Written and Oral portions.
 
