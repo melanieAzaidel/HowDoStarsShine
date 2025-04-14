@@ -16,4 +16,4 @@ The <a href="https://github.com/melanieAzaidel/HowDoStarsShine/tree/main/Process
 <a href="https://github.com/melanieAzaidel/HowDoStarsShine/blob/main/Temperature%20Gradient%20and%20Energy.ipynb">Temperature Gradient and Energy.ipynb</a> contains code for plotting the radiative temperature gradient and energy generation rates throughout the Sun.
 
 ## Acknowledgement
-This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-2240614.
+This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-2240614. I work with John F. Beacom, who is supported by National Science Foundation Grant No. PHY-2310018.
